@@ -1,0 +1,9 @@
+numpy
+matplotlib
+pyloudnorm
+pyroomacoustics
+soundfile
+noisereduce
+pydub
+librosa
+scipy
