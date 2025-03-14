@@ -93,3 +93,6 @@ python main.py
 
 # Contributing
 Contributions are welcome! Please feel free to submit issues, suggest improvements, or create pull requests to help expand AudioPolish.
+
+# License
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/KunalSamad/AudioPolish/blob/main/LICENSE.txt) file for details.
